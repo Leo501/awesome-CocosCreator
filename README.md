@@ -1,7 +1,7 @@
 # awesome-CocosCreator
 Cocos Creator 资源合集
 
->由于工作与技术积累的需要，把日常收集到的游戏框架、成品游戏、游戏Demo、棋牌游戏，等资源整理在一起。我会不定时更新，同时欢迎大家把收集好的东西留言分享出来。
+>由于工作与技术积累的需要，把日常收集到的游戏框架、成品游戏、游戏Demo、棋牌游戏，等资源整理在一起。我会不定时更新，同时欢迎大家把收集好的东西留言(issue,push)分享出来。
 
 #### 框架
 * GameplayFramework https://github.com/huangx916/GameplayFramework
@@ -40,7 +40,7 @@ Cocos Creator 资源合集
 * 篮球小游戏 https://github.com/fylz1125/BasketBall
 * 2D卷轴闯关小游戏 [https://github.com/Zhniing/Play](https://github.com/Zhniing/Play)
 * 治愈七夕，微信小游戏，音乐游戏 [https://github.com/SmileChen518/MusicGame](https://github.com/SmileChen518/MusicGame)
-* [HorseRace](https://github.com/SmileChen518/HorseRace)**
+* HorseRace https://github.com/SmileChen518/HorseRace
 
 #### 3d游戏
 * 模拟球弹跳 https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling
@@ -54,7 +54,7 @@ Cocos Creator 资源合集
 * 打砖块 https://github.com/potato47/brick-breaker-master
 * 斗兽棋 https://github.com/m249212419/doushouqi
 * 六边形游戏 https://github.com/hellozhangran/game-hexagon
-* [仿FC多人联机射击游戏](https://forum.cocos.com/t/fc/81272)
+* 仿FC多人联机射击游戏 https://forum.cocos.com/t/fc/81272
 
 ### 棋牌
 * 幼麟棋牌-四川麻将v1.0 https://github.com/babykylin/babykylin_scmj
