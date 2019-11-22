@@ -43,6 +43,8 @@ Cocos Creator 资源合集
 * HorseRace https://github.com/SmileChen518/HorseRace
 
 #### 3d游戏
+* 官方Demo集合 https://github.com/cocos-creator/example-3d
+* 官方testDemo https://github.com/cocos-creator/test-cases-3d
 * 模拟球弹跳 https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling
 
 
@@ -79,6 +81,11 @@ Cocos Creator 资源合集
 * 棋牌类游戏框架，参考网狐 https://github.com/shihuaping/gamex
 * 轮盘抽奖 https://github.com/sky068/Wheel_CocosCreator 
 * cocoscreator(1.7版本)实现刮刮卡功能 https://github.com/sky068/scratchCard
+
+### 官方手册
+* 2d https://github.com/cocos-creator/creator-docs
+* 3d https://github.com/cocos-creator/docs-3d
+
 ### 物理系统
 * https://github.com/2youyou2/physics-example
 * Physical-Pinball 物理弹球 https://github.com/andynicoo/Physical-Pinball
