@@ -88,7 +88,9 @@ Cocos Creator 资源合集
 
 ### 物理系统
 * https://github.com/2youyou2/physics-example
-* Physical-Pinball 物理弹球 https://github.com/andynicoo/Physical-Pinball
+* Physical-Pinball 物理弹球 https://github.com/andynicoo/
+* 打砖块 https://github.com/potato47/brick-breaker-master
+Physical-Pinball
 
 * Cocos Creator 2.0 Material example https://github.com/fylz1125/heartfelt
 ### Shader
