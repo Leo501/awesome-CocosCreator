@@ -107,6 +107,8 @@ https://github.com/ShawnZhang2015/ShaderHelper
 ### UI
 * 奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller
 * UILoader(资源加载和资源释放) https://github.com/1083921307/UILoader
+### 新手引导
+* GodGuide https://github.com/ShawnZhang2015/GodGuide
 ### OpenGL
 * Learn OpenGL ES via Cocos2D-X https://github.com/zilongshanren/OpenGLES-cocos2dx
 * 一个基于 OpenGL 和 Creator 的攻击范围绘制Demo https://github.com/shpz/AttackArea
