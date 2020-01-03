@@ -117,3 +117,5 @@ https://github.com/ShawnZhang2015/ShaderHelper
 乐观帧同步网页示例，支持断线重连 https://github.com/fylz1125/LockstepDemo
 ### astar算法寻路
 * https://github.com/sky068/AstarCreator
+### 原生第三方sdk
+* 极光推送sdk https://github.com/longyinzaitian/JiGuangIntegration
