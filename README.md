@@ -9,6 +9,7 @@ Cocos Creator 资源合集
 * cocos creator项目基础类库 https://github.com/caochao/cocos_creator_proj_base
 * 前端框架 https://github.com/m249212419/CreatorClient
 * ccc游戏框架 https://github.com/tonyshow/tonyCocosCreatorDamo
+* ECS框架 https://github.com/darkoverlordofdata/entitas-ts
 * 一个基于CocosCreator的游戏开发框架 https://forum.cocos.com/t/cocoscreator/79915
 * cocos creator 基础框架，包含资源、ui管理，网络模块 https://github.com/wyb10a10/cocos_creator_framework
 * lightMVC [https://github.com/yue19870813/lightMVC](https://github.com/yue19870813/lightMVC)
@@ -117,5 +118,7 @@ https://github.com/ShawnZhang2015/ShaderHelper
 乐观帧同步网页示例，支持断线重连 https://github.com/fylz1125/LockstepDemo
 ### astar算法寻路
 * https://github.com/sky068/AstarCreator
+### AI行为树
+* https://github.com/behavior3/behavior3editor
 ### 原生第三方sdk
 * 极光推送sdk https://github.com/longyinzaitian/JiGuangIntegration
