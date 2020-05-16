@@ -86,6 +86,7 @@ Cocos Creator 资源合集
 ### 官方手册
 * 2d https://github.com/cocos-creator/creator-docs
 * 3d https://github.com/cocos-creator/docs-3d
+* 常见问题归纳 https://github.com/Jno1995/CocosCreator-FAQ
 
 ### 物理系统
 * https://github.com/2youyou2/physics-example
