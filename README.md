@@ -105,6 +105,8 @@ https://github.com/ShawnZhang2015/ShaderHelper
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
 ### H5构建
 * build & optimize & deploy https://github.com/babyzone2004/cocos-fly
+### 原生打包
+* 【经验分享】使用 Cocos Creator 进行 原生打包、发布、接入SDK https://forum.cocos.org/t/cocos-creator-sdk/92145
 ### UI
 * 奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller
 * UILoader(资源加载和资源释放) https://github.com/1083921307/UILoader
