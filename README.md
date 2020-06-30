@@ -108,6 +108,8 @@ https://github.com/ShawnZhang2015/ShaderHelper
 * build & optimize & deploy https://github.com/babyzone2004/cocos-fly
 ### 原生打包
 * 【经验分享】使用 Cocos Creator 进行 原生打包、发布、接入SDK https://forum.cocos.org/t/cocos-creator-sdk/92145
+### 代码混淆
+* 一个开源的自动代码混淆插件 https://forum.cocos.org/t/topic/92662
 ### UI
 * 奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller
 * UILoader(资源加载和资源释放) https://github.com/1083921307/UILoader
