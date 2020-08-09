@@ -110,8 +110,10 @@ https://github.com/ShawnZhang2015/ShaderHelper
 * 【经验分享】使用 Cocos Creator 进行 原生打包、发布、接入SDK https://forum.cocos.org/t/cocos-creator-sdk/92145
 ### 代码混淆
 * 一个开源的自动代码混淆插件 https://forum.cocos.org/t/topic/92662
-### 
+### 资源加密
 * 资源加密方案 https://github.com/zhitaocai/CocosCreator-Build-Encrypt
+### 图片处理
+* [大图裁剪](https://mp.weixin.qq.com/s?__biz=MzA5MDM2NDY3NQ==&mid=2452185861&idx=1&sn=946d392344a3d779f6c416aa1618bd49&chksm=87d10d69b0a6847fcd4e5465cd00f6a20e006842e134e733292fe8332e037b50b298256b4296&mpshare=1&scene=1&srcid=0721Sl9PIdlAg2PdDDlBYzMm&sharer_sharetime=1595344135139&sharer_shareid=72d91ec594c9b09c9e8422bf070130df&key=126745e5a1fffccf4f9bbe714db9621134763fb4a82065c08d1bcd65a899897ae91754470acad2733e4bbed1572e03beda8446cb36587da252136f9599b31cbc51b7b9bf3d7a22868aee9e6a707553c4&ascene=1&uin=NDMyMTYyNjQw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AaNFX%2FO9UNKZe4I7xH9HsSQ%3D&pass_ticket=8ivZcFlH8%2FPA8n7Czost1a2Z2Towhr3UW%2F%2FG3C91JEVojNKS2aM%2FNfKe9mVW6Xx1) 
 ### UI
 * 奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller
 * UILoader(资源加载和资源释放) https://github.com/1083921307/UILoader
