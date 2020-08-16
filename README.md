@@ -125,10 +125,10 @@ https://github.com/ShawnZhang2015/ShaderHelper
 ### Websocket多人在线
 * 多人在线pv https://github.com/wheatup/scrabble
 ### 同步
-帧同步和状态同步 https://github.com/cisen/blog/issues/304
-帧同步游戏开发基础指南 https://mp.weixin.qq.com/s/ambS-XTKV_RllXG3F5FjcA
-乐观帧同步网页示例，支持断线重连 https://github.com/fylz1125/LockstepDemo
-creator2.0实现的帧同步Demo https://gitee.com/haozi0904/LockStep/tree/master/
+* 帧同步和状态同步 https://github.com/cisen/blog/issues/304
+* 帧同步游戏开发基础指南 https://mp.weixin.qq.com/s/ambS-XTKV_RllXG3F5FjcA
+* 乐观帧同步网页示例，支持断线重连 https://github.com/fylz1125/LockstepDemo
+* creator2.0实现的帧同步Demo https://gitee.com/haozi0904/LockStep/tree/master/
 ### astar算法寻路
 * https://github.com/sky068/AstarCreator
 ### AI行为树
