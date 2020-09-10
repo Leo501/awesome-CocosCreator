@@ -99,8 +99,9 @@ Cocos Creator 资源合集
 * 2.x https://github.com/colinsusie/creator_2_0_material_demo
 * creator 2.x推出了新的Material系统 https://github.com/fylz1125/ShaderDemos
 * CocosCreator Effect第三方控件 https://github.com/colin3dmax/CocosCreator
-* Cocos Creator 2.x Shader组件 
-https://github.com/ShawnZhang2015/ShaderHelper
+* Cocos Creator 2.x Shader组件 https://github.com/ShawnZhang2015/ShaderHelper
+* 探雾效果 https://mp.weixin.qq.com/s/6s-e-NnAX_2_G7OxwUhR2A
+* 噪声纹理之消融效果 https://mp.weixin.qq.com/s/9od3cxdinGJ4q8Zjfc4qFQ
 ### 微信小游戏
 * 微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
@@ -126,6 +127,7 @@ https://github.com/ShawnZhang2015/ShaderHelper
 * 多人在线pv https://github.com/wheatup/scrabble
 ### 同步
 * 帧同步和状态同步 https://github.com/cisen/blog/issues/304
+* 手游后台PVP系统网络同步方案总结 https://cloud.tencent.com/developer/article/1097767
 * 帧同步游戏开发基础指南 https://mp.weixin.qq.com/s/ambS-XTKV_RllXG3F5FjcA
 * 乐观帧同步网页示例，支持断线重连 https://github.com/fylz1125/LockstepDemo
 * creator2.0实现的帧同步Demo https://gitee.com/haozi0904/LockStep/tree/master/
@@ -133,5 +135,7 @@ https://github.com/ShawnZhang2015/ShaderHelper
 * https://github.com/sky068/AstarCreator
 ### AI行为树
 * https://github.com/behavior3/behavior3editor
+### 优化
+* 突破 Label 的缓存模式：CHAR 无限模式 https://mp.weixin.qq.com/s/NUjDaE0WAP3tf3G571GSsw
 ### 原生第三方sdk
 * 极光推送sdk https://github.com/longyinzaitian/JiGuangIntegration
