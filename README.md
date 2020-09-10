@@ -125,6 +125,7 @@ Cocos Creator 资源合集
 * 一个基于 OpenGL 和 Creator 的攻击范围绘制Demo https://github.com/shpz/AttackArea
 ### Websocket多人在线
 * 多人在线pv https://github.com/wheatup/scrabble
+* websocket使用ssl https://forum.cocos.org/t/websocket-ssl/60024
 ### 同步
 * 帧同步和状态同步 https://github.com/cisen/blog/issues/304
 * 手游后台PVP系统网络同步方案总结 https://cloud.tencent.com/developer/article/1097767
