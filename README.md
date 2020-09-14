@@ -32,6 +32,7 @@ Cocos Creator 资源合集
 ---
 * 七彩蹦蹦 [https://github.com/shichaohui/ColorUp](https://github.com/shichaohui/ColorUp)
 * 六边形消除 https://github.com/WuBuzi/LBXGame
+* 俄罗斯方块 https://github.com/KuoKuo666/CocosCreator-Tetris.git
 * 开心消消乐 https://github.com/isghost/kaixinxiaoxiaole
 * 橡皮怪勇闯地下室 https://github.com/shenghy/Cocos_Basement
 * 物理弹球 https://github.com/andynicoo/Physical-Pinball
