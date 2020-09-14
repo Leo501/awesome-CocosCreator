@@ -49,7 +49,8 @@ Cocos Creator 资源合集
 * 官方Demo集合 https://github.com/cocos-creator/example-3d
 * 官方testDemo https://github.com/cocos-creator/test-cases-3d
 * 模拟球弹跳 https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling
-
+* Creator 3D 材质系统：曲面效果如何实现 https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA
+* 弹弹乐 https://github.com/cocos-creator/demo-ball
 
 #### 半成品
 * 贪吃蛇 https://github.com/dixonzhang/ccc_snake
@@ -103,6 +104,9 @@ Cocos Creator 资源合集
 * Cocos Creator 2.x Shader组件 https://github.com/ShawnZhang2015/ShaderHelper
 * 探雾效果 https://mp.weixin.qq.com/s/6s-e-NnAX_2_G7OxwUhR2A
 * 噪声纹理之消融效果 https://mp.weixin.qq.com/s/9od3cxdinGJ4q8Zjfc4qFQ
+* [动态蒙版](https://mp.weixin.qq.com/s?__biz=MjM5ODAxNTM2NA==&mid=2659652865&idx=1&sn=aeb17ccf8d8a6090ba4060a87a03a6ce&chksm=bda28dea8ad504fcdd4ddfe2824450f56c190ee6eec7ccc8b2729b41fef42a89af8da1bdea14&mpshare=1&scene=1&srcid=09144aPxc5akR9NPM6SlnWXh&sharer_sharetime=1600093867114&sharer_shareid=72d91ec594c9b09c9e8422bf070130df&key=74c1d550118a3d2804ed839dd9145f0a36f07a2d2a227d94e5948e9722170155bd8d486cd609b868dea7c5b93fcf9eed8bf122c63dd15096393357bdc3554b0716cec25403e9732e7eb06800f44cb3ef8a50466f8a6aac83f3580bfd85e9ebe984a94d834facb8826f8d00d58f080e83035f637e1fe0c25e1f066023473eb7a4&ascene=1&uin=NDMyMTYyNjQw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASRWGxgW1H3BDiZeKdmiOy8%3D&pass_ticket=u%2BKEpv0z16PSYQBo%2BODOZHm69bqxOixMAlIv3eI8tf7n0HjtLGvMa7VacI%2BOQ7H1&wx_header=0)
+* 探照灯效果 Shader 实现 https://mp.weixin.qq.com/s/Jlj3Dt92tgy2CJot98z5Zg
+* 曲面效果 https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA
 ### 微信小游戏
 * 微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
