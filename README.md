@@ -91,6 +91,9 @@ Cocos Creator 资源合集
 * 3d https://github.com/cocos-creator/docs-3d
 * 常见问题归纳 https://github.com/Jno1995/CocosCreator-FAQ
 
+### 3d
+* unity插件的网格切割 https://forum.cocos.org/t/unity/93796
+
 ### 物理系统
 * https://github.com/2youyou2/physics-example
 * Physical-Pinball 物理弹球 https://github.com/andynicoo/
