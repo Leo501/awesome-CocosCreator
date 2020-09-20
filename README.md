@@ -143,5 +143,8 @@ Cocos Creator 资源合集
 * https://github.com/behavior3/behavior3editor
 ### 优化
 * 突破 Label 的缓存模式：CHAR 无限模式 https://mp.weixin.qq.com/s/NUjDaE0WAP3tf3G571GSsw
+### 曲线
+* 贝塞尔曲线的路径实现 https://github.com/haoyuan336/cocoscreator3dBezier/tree/master/Bezier
+* cocoscreator3d塔防游戏技术分享(一)贝塞尔曲线的实现 https://mp.weixin.qq.com/s/FdfDN4qg1FLDbBEh4kFLsA
 ### 原生第三方sdk
 * 极光推送sdk https://github.com/longyinzaitian/JiGuangIntegration
