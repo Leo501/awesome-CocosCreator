@@ -93,6 +93,7 @@ Cocos Creator 资源合集
 
 ### 3d
 * unity插件的网格切割 https://forum.cocos.org/t/unity/93796
+* 几种资源加载 https://forum.cocos.org/t/creator3d/98389
 
 ### 物理系统
 * https://github.com/2youyou2/physics-example
