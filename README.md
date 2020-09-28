@@ -90,6 +90,8 @@ Cocos Creator 资源合集
 * 2d https://github.com/cocos-creator/creator-docs
 * 3d https://github.com/cocos-creator/docs-3d
 * 常见问题归纳 https://github.com/Jno1995/CocosCreator-FAQ
+### 社区精华贴
+* 2020年1～4月 https://forum.cocos.org/t/cocos-creator-2020-1-4/91895
 
 ### 3d
 * unity插件的网格切割 https://forum.cocos.org/t/unity/93796
