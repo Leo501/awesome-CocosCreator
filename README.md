@@ -120,6 +120,8 @@ Cocos Creator 资源合集
 * build & optimize & deploy https://github.com/babyzone2004/cocos-fly
 ### 原生打包
 * 【经验分享】使用 Cocos Creator 进行 原生打包、发布、接入SDK https://forum.cocos.org/t/cocos-creator-sdk/92145
+### 热更新
+* 大厅+子游戏 https://github.com/TopDiscover/QuickFramework
 ### 代码混淆
 * 一个开源的自动代码混淆插件 https://forum.cocos.org/t/topic/92662
 ### 资源加密
