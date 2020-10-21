@@ -94,6 +94,7 @@ Cocos Creator 资源合集
 * 2020年1～4月 https://forum.cocos.org/t/cocos-creator-2020-1-4/91895
 
 ### 3d
+* Cocos Creator 3D初体验 https://forum.cocos.org/t/cocos-creator-3d/99188
 * unity插件的网格切割 https://forum.cocos.org/t/unity/93796
 * 几种资源加载 https://forum.cocos.org/t/creator3d/98389
 
