@@ -119,6 +119,8 @@ Cocos Creator 资源合集
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
 ### H5构建
 * build & optimize & deploy https://github.com/babyzone2004/cocos-fly
+### 插件
+* 免费插件 https://github.com/tidys/CocosCreatorPlugins
 ### 原生打包
 * 【经验分享】使用 Cocos Creator 进行 原生打包、发布、接入SDK https://forum.cocos.org/t/cocos-creator-sdk/92145
 ### 热更新
