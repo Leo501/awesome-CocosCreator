@@ -44,6 +44,8 @@ Cocos Creator 资源合集
 * 2D卷轴闯关小游戏 [https://github.com/Zhniing/Play](https://github.com/Zhniing/Play)
 * 治愈七夕，微信小游戏，音乐游戏 [https://github.com/SmileChen518/MusicGame](https://github.com/SmileChen518/MusicGame)
 * HorseRace https://github.com/SmileChen518/HorseRace
+---
+* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame
 
 #### 3d游戏
 * 官方Demo集合 https://github.com/cocos-creator/example-3d
