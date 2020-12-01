@@ -97,6 +97,7 @@ Cocos Creator 资源合集
 
 ### 3d
 * Cocos Creator 3D初体验 https://forum.cocos.org/t/cocos-creator-3d/99188
+* cocos creator 四元数与3d旋转 https://mp.weixin.qq.com/s/zwF5PcR96gazP1k-IzXEPg
 * unity插件的网格切割 https://forum.cocos.org/t/unity/93796
 * 几种资源加载 https://forum.cocos.org/t/creator3d/98389
 
