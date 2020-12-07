@@ -108,6 +108,7 @@ Cocos Creator 资源合集
 * 瞄准线 https://github.com/baiyuwubing/cocos-creator-examples/tree/master/aimLine
 * Cocos Creator 2.0 Material example https://github.com/fylz1125/heartfelt
 ### Shader
+* Cocos Creator Shader Effect 系列 https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo
 * 2.x https://github.com/colinsusie/creator_2_0_material_demo
 * creator 2.x推出了新的Material系统 https://github.com/fylz1125/ShaderDemos
 * CocosCreator Effect第三方控件 https://github.com/colin3dmax/CocosCreator
