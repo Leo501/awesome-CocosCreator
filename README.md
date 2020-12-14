@@ -111,6 +111,7 @@ Cocos Creator 资源合集
 * 精灵(Sprite)中的网格(Mesh)渲染模式 https://forum.cocos.org/t/sprite-mesh/92976
 * 自定义渲染合批之自定义顶点格式 https://forum.cocos.org/t/demo/95087
 * Cocos Creator Shader Effect 系列 https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo
+*  https://forum.cocos.org/t/3d/90640
 * 2.x https://github.com/colinsusie/creator_2_0_material_demo
 * creator 2.x推出了新的Material系统 https://github.com/fylz1125/ShaderDemos
 * CocosCreator Effect第三方控件 https://github.com/colin3dmax/CocosCreator
