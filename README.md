@@ -108,6 +108,7 @@ Cocos Creator 资源合集
 * 瞄准线 https://github.com/baiyuwubing/cocos-creator-examples/tree/master/aimLine
 * Cocos Creator 2.0 Material example https://github.com/fylz1125/heartfelt
 ### Shader
+* SSRShaderFX && Creator https://forum.cocos.org/t/topic/103617
 * 精灵(Sprite)中的网格(Mesh)渲染模式 https://forum.cocos.org/t/sprite-mesh/92976
 * 自定义渲染合批之自定义顶点格式 https://forum.cocos.org/t/demo/95087
 * Cocos Creator Shader Effect 系列 https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo
