@@ -96,8 +96,12 @@ Cocos Creator 资源合集
 ### 3d
 * unity插件的网格切割 https://forum.cocos.org/t/unity/93796
 * 几种资源加载 https://forum.cocos.org/t/creator3d/98389
+* Cocos Creator 3.0 基于 PBR 的物理渲染详解 https://mp.weixin.qq.com/s/zkm5XFyKIUkPn5qltDzciw
+* 四元数与3D旋转实例 https://mp.weixin.qq.com/s/zwF5PcR96gazP1k-IzXEPg
+* 弹性跟随相机 https://mp.weixin.qq.com/s/NCn8Ygk_I_nRnhmbHQeZwQ
 
 ### 物理系统
+* 常用物理知识 https://blog.csdn.net/qiushisoftware/article/details/12139831
 * https://github.com/2youyou2/physics-example
 * Physical-Pinball 物理弹球 https://github.com/andynicoo/
 * 打砖块 https://github.com/potato47/brick-breaker-master
