@@ -61,6 +61,7 @@ Cocos Creator 资源合集
 * 斗兽棋 https://github.com/m249212419/doushouqi
 * 六边形游戏 https://github.com/hellozhangran/game-hexagon
 * 仿FC多人联机射击游戏 https://forum.cocos.com/t/fc/81272
+* 汉字临摹 https://github.com/Amterasu/writerDemo
 
 ### 棋牌
 * 幼麟棋牌-四川麻将v1.0 https://github.com/babykylin/babykylin_scmj
@@ -92,6 +93,7 @@ Cocos Creator 资源合集
 * 常见问题归纳 https://github.com/Jno1995/CocosCreator-FAQ
 ### 社区精华贴
 * 2020年1～4月 https://forum.cocos.org/t/cocos-creator-2020-1-4/91895
+* Cocos 技术与实例教程集锦 https://mp.weixin.qq.com/s/ow_kO8vYud-29zM71WBAvA
 
 ### 3d
 * unity插件的网格切割 https://forum.cocos.org/t/unity/93796
@@ -107,7 +109,10 @@ Cocos Creator 资源合集
 * 打砖块 https://github.com/potato47/brick-breaker-master
 * 瞄准线 https://github.com/baiyuwubing/cocos-creator-examples/tree/master/aimLine
 * Cocos Creator 2.0 Material example https://github.com/fylz1125/heartfelt
+* 篮球物理游戏开发实战 https://mp.weixin.qq.com/s/t7dFJYARE1C8xtjHxtbtjw
+* CocosCreator3.0 3d物理 https://mp.weixin.qq.com/s/U1sjI2TZRI4T-02sOdIRzw
 ### Shader
+* 3D 渲染管线超强解读 https://mp.weixin.qq.com/s/u7bP4HcnxnOD6MmuNDOHAA
 * 2.x https://github.com/colinsusie/creator_2_0_material_demo
 * creator 2.x推出了新的Material系统 https://github.com/fylz1125/ShaderDemos
 * CocosCreator Effect第三方控件 https://github.com/colin3dmax/CocosCreator
@@ -117,6 +122,7 @@ Cocos Creator 资源合集
 * [动态蒙版](https://mp.weixin.qq.com/s?__biz=MjM5ODAxNTM2NA==&mid=2659652865&idx=1&sn=aeb17ccf8d8a6090ba4060a87a03a6ce&chksm=bda28dea8ad504fcdd4ddfe2824450f56c190ee6eec7ccc8b2729b41fef42a89af8da1bdea14&mpshare=1&scene=1&srcid=09144aPxc5akR9NPM6SlnWXh&sharer_sharetime=1600093867114&sharer_shareid=72d91ec594c9b09c9e8422bf070130df&key=74c1d550118a3d2804ed839dd9145f0a36f07a2d2a227d94e5948e9722170155bd8d486cd609b868dea7c5b93fcf9eed8bf122c63dd15096393357bdc3554b0716cec25403e9732e7eb06800f44cb3ef8a50466f8a6aac83f3580bfd85e9ebe984a94d834facb8826f8d00d58f080e83035f637e1fe0c25e1f066023473eb7a4&ascene=1&uin=NDMyMTYyNjQw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ASRWGxgW1H3BDiZeKdmiOy8%3D&pass_ticket=u%2BKEpv0z16PSYQBo%2BODOZHm69bqxOixMAlIv3eI8tf7n0HjtLGvMa7VacI%2BOQ7H1&wx_header=0)
 * 探照灯效果 Shader 实现 https://mp.weixin.qq.com/s/Jlj3Dt92tgy2CJot98z5Zg
 * 曲面效果 https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA
+* 卡通水体渲染教程 https://mp.weixin.qq.com/s/BAwYxilDKr42YaGx5gIBzA##
 ### 微信小游戏
 * 微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
@@ -126,6 +132,9 @@ Cocos Creator 资源合集
 * 【经验分享】使用 Cocos Creator 进行 原生打包、发布、接入SDK https://forum.cocos.org/t/cocos-creator-sdk/92145
 ### 热更新
 * 大厅+子游戏 https://github.com/TopDiscover/QuickFramework
+* Asset Bundle 全解析 https://mp.weixin.qq.com/s/IGuWoQKmd7Fzn5R0YMMq2Q
+* 新资源管理系统剖析 https://mp.weixin.qq.com/s/HLQyh_LquAUc5PASu874xQ
+* 教育大厅+子游戏开发实战 https://mp.weixin.qq.com/s/Sp85mqRj7JpWmwVony8RzQ
 ### 代码混淆
 * 一个开源的自动代码混淆插件 https://forum.cocos.org/t/topic/92662
 ### 资源加密
@@ -137,6 +146,13 @@ Cocos Creator 资源合集
 ### UI
 * 奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller
 * UILoader(资源加载和资源释放) https://github.com/1083921307/UILoader
+* 弹窗管理方案 https://mp.weixin.qq.com/s/T9ZX7bbLj7GK1Qg01ud1Gw
+
+### 插件
+* 插件教程 https://mp.weixin.qq.com/s/7TKTlyY_hkQzi9jeHR-sjA
+
+### 粒子
+* Cocos Creator 3D 粒子系统初战:火焰 https://mp.weixin.qq.com/s/m9nPv2NTZrBnXWCYxcrnAQ
 ### 新手引导
 * GodGuide https://github.com/ShawnZhang2015/GodGuide
 ### OpenGL
@@ -157,6 +173,9 @@ Cocos Creator 资源合集
 * https://github.com/behavior3/behavior3editor
 ### 优化
 * 突破 Label 的缓存模式：CHAR 无限模式 https://mp.weixin.qq.com/s/NUjDaE0WAP3tf3G571GSsw
+* 性能调优优化集锦 https://mp.weixin.qq.com/s/OaZVFMq4vZIrVeSZb17ing
+* 纹理压缩方案 https://mp.weixin.qq.com/s/s-ykV2Nbp8Oc7H7PfUxW_w
+* JavaScript兼容性问题规避 https://mp.weixin.qq.com/s/b9nfWj8T3FcSHQUmOdAGgg
 ### 曲线
 * 贝塞尔曲线的路径实现 https://github.com/haoyuan336/cocoscreator3dBezier/tree/master/Bezier
 * cocoscreator3d塔防游戏技术分享(一)贝塞尔曲线的实现 https://mp.weixin.qq.com/s/FdfDN4qg1FLDbBEh4kFLsA
