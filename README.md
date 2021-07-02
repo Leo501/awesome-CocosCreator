@@ -98,6 +98,7 @@ Cocos Creator 资源合集
 * Cocos 技术与实例教程集锦 https://mp.weixin.qq.com/s/ow_kO8vYud-29zM71WBAvA
 
 ### 3d
+* Cocos Creator 3.0 坐标转换原理 https://mp.weixin.qq.com/s/mV5EY4NMrpgCP9XFocrcGA
 * Cocos Creator 3D初体验 https://forum.cocos.org/t/cocos-creator-3d/99188
 * cocos creator 四元数与3d旋转 https://mp.weixin.qq.com/s/zwF5PcR96gazP1k-IzXEPg
 * unity插件的网格切割 https://forum.cocos.org/t/unity/93796
