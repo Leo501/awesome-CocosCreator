@@ -143,6 +143,7 @@ Cocos Creator 资源合集
 ### 原生打包
 * 【经验分享】使用 Cocos Creator 进行 原生打包、发布、接入SDK https://forum.cocos.org/t/cocos-creator-sdk/92145
 ### 热更新
+* cocos creator热更新非官方实现方案 https://forum.cocos.org/t/topic/106800
 * 大厅+子游戏 https://github.com/TopDiscover/QuickFramework
 * Asset Bundle 全解析 https://mp.weixin.qq.com/s/IGuWoQKmd7Fzn5R0YMMq2Q
 * 新资源管理系统剖析 https://mp.weixin.qq.com/s/HLQyh_LquAUc5PASu874xQ
