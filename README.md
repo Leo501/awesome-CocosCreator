@@ -187,7 +187,8 @@ Cocos Creator 资源合集
 * https://github.com/behavior3/behavior3editor
 
 ### 支持gif
-* https://github.com/2van/cocos-creator-gif
+* 支持2.0~2.3 https://github.com/baibai2013/cocos-creator-gifLib
+* 支持2.4.4 https://github.com/newGy/cocos-creator-gif-2.4.4/
 ### 优化
 * 突破 Label 的缓存模式：CHAR 无限模式 https://mp.weixin.qq.com/s/NUjDaE0WAP3tf3G571GSsw
 * 性能调优优化集锦 https://mp.weixin.qq.com/s/OaZVFMq4vZIrVeSZb17ing
