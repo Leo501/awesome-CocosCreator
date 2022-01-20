@@ -113,6 +113,7 @@ Cocos Creator 资源合集
 * Physical-Pinball 物理弹球 https://github.com/andynicoo/
 * 打砖块 https://github.com/potato47/brick-breaker-master
 * 瞄准线 https://github.com/baiyuwubing/cocos-creator-examples/tree/master/aimLine
+* 2D液体 https://mp.weixin.qq.com/s/ZA8j1XlOjBFI3J5Ers2c5w
 * Cocos Creator 2.0 Material example https://github.com/fylz1125/heartfelt
 * 篮球物理游戏开发实战 https://mp.weixin.qq.com/s/t7dFJYARE1C8xtjHxtbtjw
 * CocosCreator3.0 3d物理 https://mp.weixin.qq.com/s/U1sjI2TZRI4T-02sOdIRzw
