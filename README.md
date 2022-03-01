@@ -120,6 +120,7 @@ Cocos Creator 资源合集
 ### Shader
 * 3D 渲染管线超强解读 https://mp.weixin.qq.com/s/u7bP4HcnxnOD6MmuNDOHAA
 * SSRShaderFX && Creator https://forum.cocos.org/t/topic/103617
+* 3D渲染技术分享：一种高效的卡通水体渲染 https://mp.weixin.qq.com/s/Hu0EZ4WVtqNITNadzrZ1iw
 * 精灵(Sprite)中的网格(Mesh)渲染模式 https://forum.cocos.org/t/sprite-mesh/92976
 * 自定义渲染合批之自定义顶点格式 https://forum.cocos.org/t/demo/95087
 * Cocos Creator Shader Effect 系列 https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo
