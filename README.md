@@ -53,6 +53,7 @@ Cocos Creator 资源合集
 * 模拟球弹跳 https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling
 * Creator 3D 材质系统：曲面效果如何实现 https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA
 * 弹弹乐 https://github.com/cocos-creator/demo-ball
+* 合成大西瓜3D版本 https://store.cocos.com/app/detail/2687
 
 #### 半成品
 * 贪吃蛇 https://github.com/dixonzhang/ccc_snake
