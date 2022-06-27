@@ -14,6 +14,7 @@ Cocos Creator 资源合集
 * 前端框架 https://github.com/m249212419/CreatorClient
 * 一个基于CocosCreator的游戏开发框架 https://forum.cocos.com/t/cocoscreator/79915
 * ccc游戏框架 https://github.com/tonyshow/tonyCocosCreatorDamo
+* 一些常用的用户需求示例 https://gitee.com/yeshao2069/CocosCreatorDemos?_from=gitee_search
 
 #### 成品
 ---
