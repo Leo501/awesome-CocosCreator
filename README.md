@@ -4,6 +4,8 @@ Cocos Creator 资源合集
 >由于工作与技术积累的需要，把日常收集到的游戏框架、成品游戏、游戏Demo、棋牌游戏，等资源整理在一起。我会不定时更新，同时欢迎大家把收集好的东西留言(issue,push)分享出来。
 
 #### 框架
+* 基于 Cocos Creato 3.x 开发的一款游戏框架 https://gitee.com/dgflash/oops-framework
+* 一些常用的用户需求示例 https://gitee.com/yeshao2069/CocosCreatorDemos?_from=gitee_search
 * GameplayFramework https://github.com/huangx916/GameplayFramework
 * cocos creator 基础框架，包含资源、ui管理，网络模块 https://github.com/wyb10a10/cocos_creator_framework
 * CocosCreator_UIFrameWork https://github.com/kirikayakazuto/CocosCreator_UIFrameWork
@@ -14,7 +16,6 @@ Cocos Creator 资源合集
 * 前端框架 https://github.com/m249212419/CreatorClient
 * 一个基于CocosCreator的游戏开发框架 https://forum.cocos.com/t/cocoscreator/79915
 * ccc游戏框架 https://github.com/tonyshow/tonyCocosCreatorDamo
-* 一些常用的用户需求示例 https://gitee.com/yeshao2069/CocosCreatorDemos?_from=gitee_search
 
 #### 成品
 ---
