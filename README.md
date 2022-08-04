@@ -138,6 +138,10 @@ Cocos Creator 资源合集
 * 探照灯效果 Shader 实现 https://mp.weixin.qq.com/s/Jlj3Dt92tgy2CJot98z5Zg
 * 曲面效果 https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA
 * 卡通水体渲染教程 https://mp.weixin.qq.com/s/BAwYxilDKr42YaGx5gIBzA##
+
+## DrawCall
+* Cocos Creator 性能优化：DrawCall https://forum.cocos.org/t/topic/95043
+* Cocos Creator 3.x 性能调优之《如何优化2D/3D Drawcall》 https://forum.cocos.org/t/topic/132490
 ### 微信小游戏
 * 微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
