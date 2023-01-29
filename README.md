@@ -143,6 +143,10 @@ Cocos Creator 资源合集
 * Cocos Creator 性能优化：DrawCall https://forum.cocos.org/t/topic/95043
 * Cocos Creator 3.x 性能调优之《如何优化2D/3D Drawcall》 https://forum.cocos.org/t/topic/132490
 * MultiTexture实现 https://forum.cocos.org/t/topic/121756
+
+## 引擎
+* CocosCreator3.x引擎的动态资源加载和释放方案 https://blog.csdn.net/foupwang/article/details/124701574?spm=1001.2014.3001.5502
+
 ### 微信小游戏
 * 微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
@@ -215,6 +219,7 @@ Cocos Creator 资源合集
 * 纹理压缩方案 https://mp.weixin.qq.com/s/s-ykV2Nbp8Oc7H7PfUxW_w
 * JavaScript兼容性问题规避 https://mp.weixin.qq.com/s/b9nfWj8T3FcSHQUmOdAGgg
 * 如何重绘「江南百景图」？近300页 PPT 免费分享 https://forum.cocos.org/t/topic/121618/1
+
 ### 曲线
 * 贝塞尔曲线的路径实现 https://github.com/haoyuan336/cocoscreator3dBezier/tree/master/Bezier
 * cocoscreator3d塔防游戏技术分享(一)贝塞尔曲线的实现 https://mp.weixin.qq.com/s/FdfDN4qg1FLDbBEh4kFLsA
