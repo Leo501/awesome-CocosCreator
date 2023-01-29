@@ -142,6 +142,7 @@ Cocos Creator 资源合集
 ## DrawCall
 * Cocos Creator 性能优化：DrawCall https://forum.cocos.org/t/topic/95043
 * Cocos Creator 3.x 性能调优之《如何优化2D/3D Drawcall》 https://forum.cocos.org/t/topic/132490
+* MultiTexture实现 https://forum.cocos.org/t/topic/121756
 ### 微信小游戏
 * 微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
