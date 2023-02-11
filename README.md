@@ -109,6 +109,7 @@ Cocos Creator 资源合集
 * Cocos Creator 3.0 基于 PBR 的物理渲染详解 https://mp.weixin.qq.com/s/zkm5XFyKIUkPn5qltDzciw
 * 四元数与3D旋转实例 https://mp.weixin.qq.com/s/zwF5PcR96gazP1k-IzXEPg
 * 弹性跟随相机 https://mp.weixin.qq.com/s/NCn8Ygk_I_nRnhmbHQeZwQ
+* 导航网格自动寻路 https://mp.weixin.qq.com/s/ReFmhZde1ATBwaeBMXrssg
 
 ### 物理系统
 * 常用物理知识 https://blog.csdn.net/qiushisoftware/article/details/12139831
