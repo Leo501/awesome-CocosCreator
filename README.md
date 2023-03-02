@@ -151,6 +151,9 @@ Cocos Creator 资源合集
 ### 微信小游戏
 * 微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank
 * cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi
+
+### 调试工具
+* ccc-devtools https://github.com/potato47/ccc-devtools
 ### H5构建
 * build & optimize & deploy https://github.com/babyzone2004/cocos-fly
 ### 插件
