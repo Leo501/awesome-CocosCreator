@@ -165,6 +165,7 @@ Cocos Creator 资源合集
 * 大厅+子游戏 https://github.com/TopDiscover/QuickFramework
 * Asset Bundle 全解析 https://mp.weixin.qq.com/s/IGuWoQKmd7Fzn5R0YMMq2Q
 * 新资源管理系统剖析 https://mp.weixin.qq.com/s/HLQyh_LquAUc5PASu874xQ
+* 新资源管理系统剖析【四：资源释放】https://forum.cocos.org/t/topic/103506
 * 教育大厅+子游戏开发实战 https://mp.weixin.qq.com/s/Sp85mqRj7JpWmwVony8RzQ
 ### 代码混淆
 * 一个开源的自动代码混淆插件 https://forum.cocos.org/t/topic/92662
