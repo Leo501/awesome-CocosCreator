@@ -129,6 +129,7 @@ Cocos Creator 资源合集
 * 自定义渲染合批之自定义顶点格式 https://forum.cocos.org/t/demo/95087
 * Cocos Creator Shader Effect 系列 https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo
 * 3D拖尾特效 https://forum.cocos.org/t/3d/90640
+* 使用光照模型实现个性化渲染 https://forum.cocos.org/t/topic/151591
 * 2.x https://github.com/colinsusie/creator_2_0_material_demo
 * creator 2.x推出了新的Material系统 https://github.com/fylz1125/ShaderDemos
 * CocosCreator Effect第三方控件 https://github.com/colin3dmax/CocosCreator
