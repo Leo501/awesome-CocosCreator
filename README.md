@@ -68,6 +68,10 @@ Cocos Creator 资源合集
 * 仿FC多人联机射击游戏 https://forum.cocos.com/t/fc/81272
 * 汉字临摹 https://github.com/Amterasu/writerDemo
 
+#### 游戏核心玩法实现
+* [贪吃蛇平滑移动](https://zhuanlan.zhihu.com/p/91325549)
+* [割草](https://forum.cocos.org/t/topic/147780)
+
 ### 棋牌
 * 幼麟棋牌-四川麻将v1.0 https://github.com/babykylin/babykylin_scmj
 * 21点游戏 https://github.com/cocos-creator/tutorial-blackjack
