@@ -169,6 +169,7 @@ Cocos Creator 资源合集
 * cocos creator热更新非官方实现方案 https://forum.cocos.org/t/topic/106800
 * 大厅+子游戏 https://github.com/TopDiscover/QuickFramework
 * Asset Bundle 全解析 https://mp.weixin.qq.com/s/IGuWoQKmd7Fzn5R0YMMq2Q
+* [Creator2.x | Asset Bundle 全解析](https://forum.cocos.org/t/creator-asset-bundle/99886)
 * 新资源管理系统剖析 https://mp.weixin.qq.com/s/HLQyh_LquAUc5PASu874xQ
 * 新资源管理系统剖析【四：资源释放】https://forum.cocos.org/t/topic/103506
 * 教育大厅+子游戏开发实战 https://mp.weixin.qq.com/s/Sp85mqRj7JpWmwVony8RzQ
