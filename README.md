@@ -226,7 +226,7 @@ Cocos Creator 资源合集
 * 支持2.0~2.3 https://github.com/fkworld/cocos-to-playable-ad
 * 支持2.4 [https://github.com/badApple001/Cocos-Creator-Build-Tool](https://gitee.com/welcome2jcSpace/Cocos-Creator-Build-Tool)
 ### 优化
-* 突破 Label 的缓存模式：CHAR 无限模式 https://mp.weixin.qq.com/s/NUjDaE0WAP3tf3G571GSsw
+* 突破 Label 的缓存模式：CHAR 无限模式 https://forum.cocos.org/t/label-2-char/97766
 * 性能调优优化集锦 https://mp.weixin.qq.com/s/OaZVFMq4vZIrVeSZb17ing
 * 纹理压缩方案 https://mp.weixin.qq.com/s/s-ykV2Nbp8Oc7H7PfUxW_w
 * JavaScript兼容性问题规避 https://mp.weixin.qq.com/s/b9nfWj8T3FcSHQUmOdAGgg
