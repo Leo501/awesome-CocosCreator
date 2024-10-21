@@ -185,6 +185,7 @@ Cocos Creator 资源合集
 * 刮刮卡实现 https://forum.cocos.org/t/topic/91302
 * 自定义渲染应用——图片遮罩合批 https://forum.cocos.org/t/topic/95986
 * 自定义渲染合批之自定义顶点格式（附 Demo 和引擎源码解读） https://forum.cocos.org/t/topic/95087
+* 分享如何使用Creator3.x制作战争迷雾 https://forum.cocos.org/t/topic/147794
 ### UI
 * 虚拟列表（ScrollView）https://forum.cocos.org/t/scrollview-item-drawcall/79055
 * 奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller
