@@ -234,6 +234,7 @@ Cocos Creator 资源合集
 * 【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 https://github.com/LeeYip/cocos-text-mesh-pro
 * [噼里啪啦]虚拟列表+渲染合批，通用不改引擎，支持2.4.x和3.8.x，开源且简单 https://forum.cocos.org/t/topic/159193
 * 分享MultiTexture实现过程中的心得（兼容web与native、支持Sprite不同渲染Type、支持Cocos自动图集与动态合图的纹理、支持动态修改合批的纹理） https://forum.cocos.org/t/topic/137651
+* [噼里啪啦]虚拟列表+渲染合批，通用不改引擎，支持2.4.x和3.8.x，开源且简单 https://forum.cocos.org/t/topic/159193
 
 ### 曲线
 * 贝塞尔曲线的路径实现 https://github.com/haoyuan336/cocoscreator3dBezier/tree/master/Bezier
